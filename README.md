@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caroline Chebet,
 - I am a Software Engineer, Specialised in Backend Development.
 - I am good at Springboot,REST api, MySQL, Java, Python for Data Science.
-- 👀 I’m interested in Backend Software Development, building high end business logics and ensure the api's are highly reiibale, secured, and highly optimised for any clientside operations.
+- 👀 I’m interested in Backend Software Development, building high end business logics and ensure the api's are highly reilibale, secured, and highly optimised for any clientside operations.
 - It is my responsibility to bring an art of business logic design into a realtime software component.
 - 🌱 I’m currently learning Mircoservice Security layers in Springboot.
 - 💞️ I’m looking to collaborate on Backend Software Development.
